@@ -1,4 +1,5 @@
 # Originates from @cowboy/dotfiles
+nogit.*
 
 # Compiled source #
 ###################
@@ -69,3 +70,5 @@ Desktop.ini
 ############
 *.tmproj
 .rake_tasks~
+
+yarn.lock
