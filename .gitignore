@@ -22,6 +22,7 @@
 !bin.symlink/hub
 !bin.symlink/lyrics
 !bin.symlink/mute
+!bin.symlink/p12topem
 !bin.symlink/subl
 !bin.symlink/trav
 !bin.symlink/rbgems
