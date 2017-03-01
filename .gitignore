@@ -82,4 +82,6 @@
 !zsh/functions/tm
 !zsh/functions/last_modified
 !zsh/functions/smartextract
-
+!Brewfile
+!mac
+!mac/macos.setup
