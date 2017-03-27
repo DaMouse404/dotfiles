@@ -15,6 +15,9 @@ cask 'flux'
 
 # Embedded
 brew 'rust'
+brew 'open-ocd'
 
 cask 'gcc-arm-embedded'
 cask 'visual-studio-code'
+tap 'thefloweringash/homebrew-lm4f'
+brew 'lm4tools', args: ['HEAD']
